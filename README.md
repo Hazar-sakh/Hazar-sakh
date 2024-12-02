@@ -25,4 +25,4 @@
 - **Tools:** GitHub, Replit
 - **Other:** Big Data, Machine Learning
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazar-sakh&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hazar-sakh&show_icons=true&theme=tokyonight)
