@@ -12,8 +12,8 @@
 
 🚀 Nikita Nakelskii  
 *Beginer*  
-Sakhalin goverment university
-Urban university  
+1. Sakhalin goverment university
+2. Urban university  
 
 💡 **Projects:**
 1. **In progress** 
